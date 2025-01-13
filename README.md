@@ -30,3 +30,11 @@
 - Allows
 - Displays the name of the user's Harry Potter counterpart. 
 - Completely accurate 100% of the time.  
+
+
+### Project 5: Rufus the Elephant
+***Summary***: This program displays a very cute little elephant named Rufus.
+# Key Features: 
+- Draws Rufus.
+- Credit: made in collaboration with Cameron. 
+- Completely accurate 100% of the time.  
