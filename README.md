@@ -27,14 +27,15 @@
 ### Project 4: RockPaperScissors
 ***Summary***: This program allows the user to play Rock Paper Scissors against the computer.
 **Key Features**: 
-- Allows
-- Displays the name of the user's Harry Potter counterpart. 
+- Collects player's move, generates computer's move
+- Determines outcome and displays score.
+- Loops until the user quits in disgust.
 - Completely accurate 100% of the time.  
 
 
 ### Project 5: Rufus the Elephant
 ***Summary***: This program displays a very cute little elephant named Rufus.
-# Key Features: 
+***Key Features***: 
 - Draws Rufus.
 - Credit: made in collaboration with Cameron. 
 - Completely accurate 100% of the time.  
