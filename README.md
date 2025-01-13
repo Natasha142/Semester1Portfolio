@@ -10,6 +10,7 @@
   
 ### Project 2: MadLib
 ***Summary***: This program creates a MadLib based on the general story of Wicked the Musical. 
+
 ***Key Features***: 
 - Fetches parts of speech. 
 - Artfully spins the tale created by the amalgamation of Wicked and the user's own genius. 
