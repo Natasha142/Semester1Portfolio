@@ -16,7 +16,7 @@
 - Completely accurate 100% of the time.
 
 
-#### Project 3: Pokemon
+### Project 3: Pokemon
 ***Summary***: This program allows the user to evolve their Pokemon from infanthood to elderdom.
 **Key Features**: 
 - Allows the user to choose whether to train, gym battle, or display stats.
